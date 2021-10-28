@@ -6,6 +6,10 @@
 - [Builder](#builder)
 
 
+### Builder
+Sendo reponsável por instanciar, coletar os parâmetros e por orquestar
+junto ao construtor da classe a construção dela
+
 <br /> <br /> <br /> <br />
 
 
